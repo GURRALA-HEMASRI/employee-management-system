@@ -5,7 +5,7 @@ This application helps organizations efficiently manage employee records with a 
 
 ---
 
-📸## Screenshots
+## 📸 Screenshots
 ## Login Page
 ![Login](https://github.com/GURRALA-HEMASRI/employee-management-system/blob/44273ea2d4cb26f5f4c780ef1aeea1a1d51ecaba/Screenshot%202026-05-25%20150504.png)
 
