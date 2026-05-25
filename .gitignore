@@ -1,0 +1,25 @@
+# Node (Frontend)
+
+node_modules/
+dist/
+
+# Java / Spring Boot (Backend)
+
+target/
+
+*.log
+.mvn
+
+# Environment files
+
+.env
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE files
+
+.vscode/
+.idea/
